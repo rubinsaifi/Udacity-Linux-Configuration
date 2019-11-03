@@ -109,7 +109,7 @@ application.secret_key = 'Qa#f}Ww|]+6FuYc_web[#yV'
 ```
 $ sudo a2enmod wsgi
 ```
-> > Apache2 Configuration changes in `/etc/apache2/sites-enabled/000-default.conf`
+> Apache2 Configuration changes in `/etc/apache2/sites-enabled/000-default.conf`
 ```
 <VirtualHost *:80>
 	ServerName 13.250.9.102
